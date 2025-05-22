@@ -1,6 +1,6 @@
-monthly_income = int(input("How much is your monthly income?"))
+monthly_income = int(input("monthly income?"))
 
-total_monthly_expenses = int(input("How much is your total monthly expenses?"))
+total_monthly_expenses = int(input("total monthly expenses?"))
 
 simple_annual_interest = 0.05
 
